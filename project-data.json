@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Crypto Dashboard",
+    "description": "A real-time cryptocurrency tracking dashboard featuring interactive charts, portfolio tracking, and price alerts via WebSocket.",
+    "image": "images/project1.png",
+    "tags": ["React", "Chart.js", "Tailwind CSS"],
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce Experience",
+    "description": "A headless e-commerce store with seamless cart management, mock Stripe integration, and a modern, fast user interface.",
+    "image": "images/project2.png",
+    "tags": ["Next.js", "Zustand", "Stripe API"],
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Task Manager Pro",
+    "description": "A Kanban-style productivity application for teams with drag-and-drop mechanics, role-based access, and local storage fallback.",
+    "image": "images/project3.png",
+    "tags": ["JavaScript", "CSS Grid", "Drag & Drop API"],
+    "link": "#"
+  }
+]
